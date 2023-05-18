@@ -1,5 +1,5 @@
 # Stable Diffusion with DreamBooth (Workshop Cincinnati ML Group) 🤓🚀
-[![Open In Colab](https://github.com/AdonaiVera/Dreambooth_StableDiffusion_workshop/blob/main/Cincinnati_ML_Meetup_%F0%9F%A4%97.ipynb)
+[![Open In Colab](https://github.com/AdonaiVera/Dreambooth_StableDiffusion_workshop/blob/main/Cincinnati_ML_Meetup_%F0%9F%A4%97.ipynb)]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+Cincipy+Community!;Bienvenidos!;Accueillir!;欢迎!&font=Fira%20Code&center=true&width=380&height=50">
