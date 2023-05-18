@@ -7,17 +7,17 @@
 
 Note: This repository is a workshop for the Cincinnati Machine Learning Group 📄
 
-![image](https://user-images.githubusercontent.com/45982251/180677692-b5708a55-0694-4ba4-a3a3-901e6bbb6c5a.png)
+![image](https://github.com/AdonaiVera/Dreambooth_StableDiffusion_workshop/blob/main/img/Screenshot%202023-05-17%20at%2011.56.20%20PM.png)
 
 ## How to use it? 📦
 Just click on Open in Colab, and you are going to have access to all the project.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdonaiVera/cincipy_malaria/blob/main/%5BMalaria%5D_mainProject.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AdonaiVera/Dreambooth_StableDiffusion_workshop/blob/main/Cincinnati_ML_Meetup_%F0%9F%A4%97.ipynb)
 
 ## Dreambooth fine-tuning for Stable Diffusion using d🧨ffusers
 Join us for an interactive ML workshop hosted by the Cincinnati ML group, where we'll explore the fascinating world of stable diffusion and DreamBooth, and unleash your creativity with AI. In this workshop, we'll guide you in creating your own stable diffusion model of your face. All you need to bring is your computer and ten images of yourself. This hands-on workshop is open to all skill levels and offers a unique opportunity to collaborate, exchange ideas, and dive into the artistic possibilities of AI. 🤖
 
-![image](https://user-images.githubusercontent.com/45982251/180677747-3ccedc34-b1ff-433b-9093-c0674adef263.png)
+![image](https://github.com/AdonaiVera/Dreambooth_StableDiffusion_workshop/blob/main/img/person.png)
 
 
 ## Credits to the owners of the following repositories.⭐
