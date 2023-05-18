@@ -14,35 +14,24 @@ Just click on Open in Colab, and you are going to have access to all the project
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdonaiVera/cincipy_malaria/blob/main/%5BMalaria%5D_mainProject.ipynb)
 
-## Malaria Algorithm :space_invader: 
-Malaria is a disease caused by a parasite. The parasite is transmitted to humans through the bites of infected mosquitoes. People who have malaria usually feel very sick, with a high fever and shaking chills. Each year, approximately 210 million people are infected with malaria, and about 600,000 people die from the disease. Most of the people who die from the disease are young children in Africa.
+## Dreambooth fine-tuning for Stable Diffusion using d🧨ffusers
+Join us for an interactive ML workshop hosted by the Cincinnati ML group, where we'll explore the fascinating world of stable diffusion and DreamBooth, and unleash your creativity with AI. In this workshop, we'll guide you in creating your own stable diffusion model of your face. All you need to bring is your computer and ten images of yourself. This hands-on workshop is open to all skill levels and offers a unique opportunity to collaborate, exchange ideas, and dive into the artistic possibilities of AI. 🤖
 
-While the disease is uncommon in temperate climates, malaria is still common in tropical and subtropical countries. World health officials are trying to reduce the incidence of malaria by distributing bed nets to help protect people from mosquito bites as they sleep. Scientists around the world are working to develop a vaccine to prevent malaria.
 ![image](https://user-images.githubusercontent.com/45982251/180677747-3ccedc34-b1ff-433b-9093-c0674adef263.png)
 
 
-## Dataset 📖
-This Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
-Train 70% | Test 30 % 2 Classes: Infected and Uninfected And a total of 27,558 images.
+## Credits to the owners of the following repositories.⭐
+You can show your appreciation by giving them a star ⭐ or contributing to their repositories:
+*   [ShivamShrirao/diffusers](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth) 
+*   [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion)
 
-## Built with 🛠️
-[TENSORFLOW](https://www.tensorflow.org/) - TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
-
-## Here you can see the results 📌
-https://tensorboard.dev/experiment/osM2p943SviDc8mZckidYQ/
-![image](https://user-images.githubusercontent.com/45982251/180677522-98cd152a-0248-495d-bacf-b6bf41c9a60a.png)
-
-
-## Authors 🖥
+## Author of the Workshop 🖥
 **Adonai Vera** - *Machine Learning Enginner [Subterra AI](https://www.subterra.ai/)* - [AdonaiVera](https://github.com/AdonaiVera)
 
 ## Expressions of Gratitude 🎁
 * Tell others about this project 📢
 * Give thanks publicly 🤓.
 
-## Credits to the owners of the following repositories.⭐
-You can show your appreciation by giving them a star ⭐ or contributing to their repositories:
-*   [ShivamShrirao/diffusers](https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth) 
-*   [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion)
+
 
 If you want even more incredible results, you can follow the steps in the notebook provided in this repository, but it requires at least 24 GB of GPU
